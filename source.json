@@ -8,7 +8,9 @@
     "news": [],
     "featuredApps": [
         "com.google.ios.youtubemusic",
-        "com.alightcreative.motion"
+        "com.alightcreative.motion",
+        "com.adobe.lrmobilephone",
+        "com.andyworks.camera"
     ],
     "apps": [
         {
@@ -69,6 +71,54 @@
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.alightcreative.motion.ipa",
                     "localizedDescription": "Hey creators! We have a quick update on this bright day: this is just to ensure that everything will work smoothly when you will be creating your masterpieces. Have an amazing time, fellas!",
                     "minOSVersion": "14.4"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        },
+        {
+            "name": "Lightroom: AI Photo Editor",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "developerName": "Adobe Inc.",
+            "subtitle": "",
+            "localizedDescription": "Ever wish your photos could really show what makes a moment special? Adobe Lightroom is a free AI photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to help you create photos you’re proud to share.\n\nPHOTO EDITOR THAT EASILY MAKES YOUR PHOTOS LOOK AMAZING\nAdobe Lightroom’s one-tap features like Quick Actions and Adaptive Presets let you retouch and enhance photo quality in seconds. These AI photo editor tools suggest the best edits for your images. Perfect for quick photo fixes or adding a unique vibe, no experience required. Use it as your go-to photo editor.\n\nREMOVE DISTRACTIONS AND BLUR BACKGROUND\nAdobe Lightroom gives you professional photo editing tools that are easy to use. Blur the photo background for a polished look, adjust finer details, or use AI Generative Remove as an object eraser in photos.\n\nPOWERFUL EDITS WITH ZERO HASSLE\nUse photo lighting tools to tweak exposure, highlights, and shadows. Fix photos with presets, photo effects, color grading, hue, saturation, or add a blurry bokeh effect to match your vibe.\n\nGET INSPIRATION FROM THE COMMUNITY\nNot sure where to start? Browse photo filters, templates, and presets shared by creators around the world. From vintage photo effects to retro photo filters and presets to match your aesthetic kick off your edits in a tap. Whether you’re looking to make bold edits with AI photo editor tools or subtle tweaks for polished portrait edits, find a look that matches your style. Save your favorites and make every photo feel like you.\n\nEDIT ONCE, APPLY EVERYWHERE\nSnapped a whole concert, travel day, or family gathering? Instead of editing each shot one by one, make quick edits with AI photo editor tools. Fix photos in batches to keep your photo edits looking consistent.\n\nWHY ADOBE LIGHTROOM?\n• It’s for every moment: whether editing photos for fun, capturing memories, gaining confidence, or sharing on social media.\n• It’s flexible: start with simple photo editing and grow into a better photographer along the way. Fix photos, crop and resize images, blur background elements, or remove distractions with our object eraser — the editing options are endless with Adobe Lightroom.\n• It’s an AI photo editor designed to help build confidence, spark creativity, and showcase your authentic style.\n\nPHOTO EDITOR TOOLS YOU'LL LOVE\n• Quick Actions: Fix photos with suggested edits tailored to your pics.\n• Preset Edits: Discover filters or make your own signature look.\n• Background Blur: Create depth with a blurry background effortlessly.\n• Generative Remove Edits: Take out the things you didn’t want with this AI photo eraser.\n• Video Editing: Bring the same creative energy to your clips with tools for light, color, and presets.\n\nFOR EVERY KIND OF PHOTOGRAPHER\nPhoto editing has never been easier. Lightroom is here to empower you - to capture sunsets, family moments, or your latest foodie find. With tools to fix pictures, enhance photo quality, and edit videos, Adobe Lightroom gives you the right balance of ease and control.\n\nDownload Adobe Lightroom today.\n\nTerms & Conditions:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a7/46/9ca746c2-af1c-08b5-23cd-2e1313295a8e/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+            "tintColor": "#050B14",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "11.4.10",
+                    "date": "2026-07-06",
+                    "size": 210676424,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
+                    "localizedDescription": "- Bug fixes and stability improvements",
+                    "minOSVersion": "18.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        },
+        {
+            "name": "(Not Boring) Camera",
+            "bundleIdentifier": "com.andyworks.camera",
+            "developerName": "Not Boring Software LLC",
+            "subtitle": "",
+            "localizedDescription": "\"The most fun camera app I've used in forever.\" — The Verge\n\"My go-to for iPhone photography\" — Washington Post\n\"It’s so fun to use.\" —MKBHD\n\nCapture unique, honest, inspiring photos like the Pros in a fun, playful camera.\n\nSUPER RAW™\nNo AI or over-processed photos. Just natural grain, sharper images, & film-like exposures. Save Raw digital negative files (DNG) for processing in other tools like Darkroom, Lightroom, or Photoshop. Or capture using Apple's professional-level ProRaw.\n\nSKIP THE EDITS\nFrom snap to share. !Camera is the first camera app to enable professional color grading with 3D LUTs (”lookup tables”) used in high-end workflows by professional photographers to achieve realistic film simulations and unique cinematic looks. Use !Camera’s presets, add LUTs from your favorite creators, or make & import your own! New Styles and pro collaborations released every season. \n\nMAKE IT YOURS\nCustomize every part of your camera to fit your vibe. Share colorways with others.\n\nHDR\nExtend your photo’s dynamic range with HDR to save additional highlight detail and color depth.\n\nLOVE THE FEEL\nClick. Tick. Snap. First fully-3D camera interface with dynamic lighting, sounds, & custom haptics that evokes the feel of holding a real camera.\n\nPRO CONTROL\nUse Auto mode for easy captures or switch to Manual for full control over exposure, shutter speed, ISO, white balance, and focus with pro-level tools like focus peaking, histogram, and zebra stripes. \n\nONE-TAP FAST\nFrom lock screen to first snap in under 1 second. Add shortcuts to your lock screen, home screen, widgets, camera control, control settings, wherever.\n\n100% PRIVATE\nWe collect nothing. We store nothing. We share nothing.\n\nPlans: https://notbor.ing/plans\nSupport: https://notbor.ing/support\nTerms: https://notbor.ing/terms\nPrivacy: https://notbor.ing/privacy",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/d4/89/a6d4891e-73ae-cb0d-81c0-d8dce970e001/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "tintColor": "#4E683E",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.54",
+                    "date": "2026-06-30",
+                    "size": 177391060,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
+                    "localizedDescription": "► Crop images in Photo Lab.\n► Zoom & pan while editing in Photo Lab.\n► Adjust Tone mapping on RAW photos in Photo Lab.\n► Tap + Hold to compare original in Photo Lab.\n► Fixed a random image flicker when editing in Photo Lab.\n► Improved Photo Lab performance plus fix some issues with ProRAW loading in Photo Lab.\n► Multiple viewfinder grid layouts, 3x3, 4x4, 6x4, Phi and Golden Ratio. Configure in Settings -> Controls\n► You can now preserve Style, Lens, Flash, Auto/Manual and Exposure settings across app launches. Configure in Settings -> Controls.\n► Gallery photos are shown in their original aspect ratio.\n► Faster camera startup on launch.",
+                    "minOSVersion": "18.0"
                 }
             ],
             "appPermissions": {
