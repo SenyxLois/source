@@ -66,9 +66,9 @@
             ],
             "versions": [
                 {
-                    "version": "6.2.53",
-                    "date": "2026-03-27",
-                    "size": 125550213,
+                    "version": "6.2.54",
+                    "date": "2026-07-11",
+                    "size": 124279209,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.alightcreative.motion.ipa",
                     "localizedDescription": "Hey creators! We have a quick update on this bright day: this is just to ensure that everything will work smoothly when you will be creating your masterpieces. Have an amazing time, fellas!",
                     "minOSVersion": "14.4"
