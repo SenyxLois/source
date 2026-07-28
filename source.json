@@ -114,9 +114,9 @@
             "screenshots": [],
             "versions": [
                 {
-                    "version": "1.54",
-                    "date": "2026-06-30",
-                    "size": 177391060,
+                    "version": "1.55",
+                    "date": "2026-07-28",
+                    "size": 178500788,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
                     "localizedDescription": "► Crop images in Photo Lab.\n► Zoom & pan while editing in Photo Lab.\n► Adjust Tone mapping on RAW photos in Photo Lab.\n► Tap + Hold to compare original in Photo Lab.\n► Fixed a random image flicker when editing in Photo Lab.\n► Improved Photo Lab performance plus fix some issues with ProRAW loading in Photo Lab.\n► Multiple viewfinder grid layouts, 3x3, 4x4, 6x4, Phi and Golden Ratio. Configure in Settings -> Controls\n► You can now preserve Style, Lens, Flash, Auto/Manual and Exposure settings across app launches. Configure in Settings -> Controls.\n► Gallery photos are shown in their original aspect ratio.\n► Faster camera startup on launch.",
                     "minOSVersion": "18.0"
