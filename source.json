@@ -100,9 +100,9 @@
             ],
             "versions": [
                 {
-                    "version": "11.5.0",
-                    "date": "2026-08-04",
-                    "size": 216627896,
+                    "version": "11.5.1",
+                    "date": "2026-08-06",
+                    "size": 216730497,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Extend your photo’s edges to fit any size, readjust your shot, and fill in what’s missing with Generative Expand.\n- New camera & lens support (full list at https://adobe.com/go/cameras)\n- Bug fixes and stability improvements.",
                     "minOSVersion": "18.0"
