@@ -31,10 +31,10 @@
             ],
             "versions": [
                 {
-                    "version": "9.32",
-                    "date": "2026-08-10T21:05:18Z",
-                    "size": 288352256,
-                    "downloadURL": "",
+                    "version": "9.26.2",
+                    "date": "2026-07-01",
+                    "size": 100227409,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.google.ios.youtubemusic.ipa",
                     "localizedDescription": "We update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements.",
                     "minOSVersion": "16.0"
                 }
@@ -67,9 +67,9 @@
             "versions": [
                 {
                     "version": "6.2.57",
-                    "date": "2026-08-12T08:50:08Z",
-                    "size": 198569984,
-                    "downloadURL": "",
+                    "date": "2026-08-12",
+                    "size": 128948380,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.alightcreative.motion.ipa",
                     "localizedDescription": "Hey creators! We have a quick update on this bright day: this is just to ensure that everything will work smoothly when you will be creating your masterpieces. Have an amazing time, fellas!",
                     "minOSVersion": "14.4"
                 }
@@ -102,9 +102,9 @@
             "versions": [
                 {
                     "version": "11.5.1",
-                    "date": "2026-08-05T20:44:23Z",
-                    "size": 357334016,
-                    "downloadURL": "",
+                    "date": "2026-08-06",
+                    "size": 216730497,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Extend your photo’s edges to fit any size, readjust your shot, and fill in what’s missing with Generative Expand.\n- New camera & lens support (full list at https://adobe.com/go/cameras)\n- Bug fixes and stability improvements.",
                     "minOSVersion": "18.0"
                 }
@@ -135,9 +135,9 @@
             "versions": [
                 {
                     "version": "1.55",
-                    "date": "2026-07-28T01:26:21Z",
-                    "size": 192991232,
-                    "downloadURL": "",
+                    "date": "2026-07-28",
+                    "size": 178500788,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
                     "localizedDescription": "+ Added translations for French, German, Spanish, Italian, Korean, Japanese, Chinese (Simplified) and Chinese (Traditional). If you see any issues with the translations please contact us at support@notbor.ing\n+ Specify an Aspect Ratio for photo capture. Configure in Settings -> Capture.\n+ Filter by Album in Photo Lab.\n+ Swipe to previous/next photo in Photo Lab.\n+ Swipe down in Photo Lab to return to the gallery.\n+ Improved Siri support. You can now say \"Open Not Boring Camera\" to launch the app, \"Take a photo with Not Boring Camera\" to open the app and immediately capture a photo, or say: \"Take a photo with Not Boring Camera after a X second delay\" to open the app then take a photo after a delay (great if you have your phone on a stand). Your mileage may vary depending on what mood Siri is in.\n+ Removed the Golden Ratio grid layouts.\n+ Two finger tap on the viewfinder now toggles the grid on|off instead of cycling through different grid layouts.",
                     "minOSVersion": "18.0"
                 }
@@ -167,10 +167,10 @@
             ],
             "versions": [
                 {
-                    "version": "9.1.72",
-                    "date": "2026-08-10T07:08:55Z",
-                    "size": 292720640,
-                    "downloadURL": "",
+                    "version": "9.1.56",
+                    "date": "2026-06-16",
+                    "size": 118396730,
+                    "downloadURL": "https://cdn.senyxcloud.my/ipa/com.spotify.client.ipa",
                     "localizedDescription": "We’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on.",
                     "minOSVersion": "16.1"
                 }
