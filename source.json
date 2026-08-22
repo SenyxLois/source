@@ -120,7 +120,7 @@
             "developerName": "Not Boring Software LLC",
             "subtitle": "",
             "localizedDescription": "\"The most fun camera app I've used in forever.\" — The Verge\n\"My go-to for iPhone photography\" — Washington Post\n\"It’s so fun to use.\" —MKBHD\n\nCapture unique, honest, inspiring photos like the Pros in a fun, playful camera.\n\nSUPER RAW™\nNo AI or over-processed photos. Just natural grain, sharper images, & film-like exposures. Save Raw digital negative files (DNG) for processing in other tools like Darkroom, Lightroom, or Photoshop. Or capture using Apple's professional-level ProRaw.\n\nSKIP THE EDITS\nFrom snap to share. !Camera is the first camera app to enable professional color grading with 3D LUTs (”lookup tables”) used in high-end workflows by professional photographers to achieve realistic film simulations and unique cinematic looks. Use !Camera’s presets, add LUTs from your favorite creators, or make & import your own! New Styles and pro collaborations released every season. \n\nMAKE IT YOURS\nCustomize every part of your camera to fit your vibe. Share colorways with others.\n\nHDR\nExtend your photo’s dynamic range with HDR to save additional highlight detail and color depth.\n\nLOVE THE FEEL\nClick. Tick. Snap. First fully-3D camera interface with dynamic lighting, sounds, & custom haptics that evokes the feel of holding a real camera.\n\nPRO CONTROL\nUse Auto mode for easy captures or switch to Manual for full control over exposure, shutter speed, ISO, white balance, and focus with pro-level tools like focus peaking, histogram, and zebra stripes. \n\nONE-TAP FAST\nFrom lock screen to first snap in under 1 second. Add shortcuts to your lock screen, home screen, widgets, camera control, control settings, wherever.\n\n100% PRIVATE\nWe collect nothing. We store nothing. We share nothing.\n\nPlans: https://notbor.ing/plans\nSupport: https://notbor.ing/support\nTerms: https://notbor.ing/terms\nPrivacy: https://notbor.ing/privacy",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/85/f7/2b85f730-7cbf-5cff-984d-1e5bc496f092/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a3/36/e9a33698-fada-15aa-4bc9-8923499e89bc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
             "tintColor": "#4E683E",
             "screenshots": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/dc/9f/6cdc9f40-7ef3-47fb-3471-dcfbd2f248ac/camera-iphone-1.jpg/320x480bb.jpg",
@@ -134,11 +134,11 @@
             ],
             "versions": [
                 {
-                    "version": "1.56",
-                    "date": "2026-08-21",
-                    "size": 84850874,
+                    "version": "1.57",
+                    "date": "2026-08-22",
+                    "size": 84849916,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
-                    "localizedDescription": "STRAIGHTEN, REPOSITION, ROTATE!\n+ Quickly reposition, straighten, rotate, and flip in Photo Lab (Crop)\n+ Edit photos that were previously edited in another app.\n+ Apple RAW 9 support for improved RAW photo quality (iOS 27+)",
+                    "localizedDescription": "+ Fixed a crash that could occur on launch for some iOS 18 users.",
                     "minOSVersion": "18.2"
                 }
             ],
