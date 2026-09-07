@@ -101,9 +101,9 @@
             ],
             "versions": [
                 {
-                    "version": "11.5.20",
-                    "date": "2026-09-01",
-                    "size": 219720596,
+                    "version": "11.5.21",
+                    "date": "2026-09-07",
+                    "size": 219798985,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
