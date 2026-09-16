@@ -120,7 +120,7 @@
             "developerName": "Not Boring Software LLC",
             "subtitle": "",
             "localizedDescription": "\"The most fun camera app I've used in forever.\" — The Verge\n\"My go-to for iPhone photography\" — Washington Post\n\"It’s so fun to use.\" —MKBHD\n\nCapture unique, honest, inspiring photos like the Pros in a fun, playful camera.\n\nSUPER RAW™\nNo AI or over-processed photos. Just natural grain, sharper images, & film-like exposures. Save Raw digital negative files (DNG) for processing in other tools like Darkroom, Lightroom, or Photoshop. Or capture using Apple's professional-level ProRaw.\n\nSKIP THE EDITS\nFrom snap to share. !Camera is the first camera app to enable professional color grading with 3D LUTs (”lookup tables”) used in high-end workflows by professional photographers to achieve realistic film simulations and unique cinematic looks. Use !Camera’s presets, add LUTs from your favorite creators, or make & import your own! New Styles and pro collaborations released every season. \n\nMAKE IT YOURS\nCustomize every part of your camera to fit your vibe. Share colorways with others.\n\nHDR\nExtend your photo’s dynamic range with HDR to save additional highlight detail and color depth.\n\nLOVE THE FEEL\nClick. Tick. Snap. First fully-3D camera interface with dynamic lighting, sounds, & custom haptics that evokes the feel of holding a real camera.\n\nPRO CONTROL\nUse Auto mode for easy captures or switch to Manual for full control over exposure, shutter speed, ISO, white balance, and focus with pro-level tools like focus peaking, histogram, and zebra stripes. \n\nONE-TAP FAST\nFrom lock screen to first snap in under 1 second. Add shortcuts to your lock screen, home screen, widgets, camera control, control settings, wherever.\n\n100% PRIVATE\nWe collect nothing. We store nothing. We share nothing.\n\nPlans: https://notbor.ing/plans\nSupport: https://notbor.ing/support\nTerms: https://notbor.ing/terms\nPrivacy: https://notbor.ing/privacy",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/28/6b/c4286b85-55db-7c00-6ab9-058d2f2a4ec3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/37/85/e13785b3-f1dc-0539-2da4-8aadd7e5561c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
             "tintColor": "#4E683E",
             "screenshots": [
                 "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/dc/9f/6cdc9f40-7ef3-47fb-3471-dcfbd2f248ac/camera-iphone-1.jpg/320x480bb.jpg",
@@ -138,7 +138,7 @@
                     "date": "2026-09-15",
                     "size": 184677506,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
-                    "localizedDescription": "+ New Artist Series : Maus : say cheese!\n+ New Style : Deakins : Shoot with the dramatic tones of legendary cinematographer, Roger Deakins.\n+ New Style : Altman : 1970s New Hollywood look inspired by director Robert Altman.\n+ Fresh style icons",
+                    "localizedDescription": "+ Updated for iOS27.",
                     "minOSVersion": "18.2"
                 }
             ],
