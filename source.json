@@ -102,8 +102,8 @@
             "versions": [
                 {
                     "version": "11.6",
-                    "date": "2026-09-28",
-                    "size": 222499153,
+                    "date": "2026-09-29",
+                    "size": 222353483,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Transform your favorite photos into shareworthy videos with Photo to Video \n- Find photos more quickly with improved, AI-powered search.\n- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
