@@ -101,9 +101,9 @@
             ],
             "versions": [
                 {
-                    "version": "11.6",
-                    "date": "2026-09-29",
-                    "size": 222353483,
+                    "version": "11.6.1",
+                    "date": "2026-09-30",
+                    "size": 222449006,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- New camera & lens support (https://adobe.com/go/cameras)\n- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
