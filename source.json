@@ -80,24 +80,24 @@
             }
         },
         {
-            "name": "Lightroom: AI Photo Editor",
+            "name": "Lightroom Photo Editor & Video",
             "bundleIdentifier": "com.adobe.lrmobilephone",
             "developerName": "Adobe Inc.",
             "subtitle": "",
             "localizedDescription": "Ever wish your photos could really show what makes a moment special? Adobe Lightroom is a free AI photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to help you create photos you’re proud to share.\n\nPHOTO EDITOR THAT EASILY MAKES YOUR PHOTOS LOOK AMAZING\nAdobe Lightroom’s one-tap features like Quick Actions and Adaptive Presets let you retouch and enhance photo quality in seconds. These AI photo editor tools suggest the best edits for your images. Perfect for quick photo fixes or adding a unique vibe, no experience required. Use it as your go-to photo editor.\n\nREMOVE DISTRACTIONS AND BLUR BACKGROUND\nAdobe Lightroom gives you professional photo editing tools that are easy to use. Blur the photo background for a polished look, adjust finer details, or use AI Generative Remove as an object eraser in photos.\n\nPOWERFUL EDITS WITH ZERO HASSLE\nUse photo lighting tools to tweak exposure, highlights, and shadows. Fix photos with presets, photo effects, color grading, hue, saturation, or add a blurry bokeh effect to match your vibe.\n\nGET INSPIRATION FROM THE COMMUNITY\nNot sure where to start? Browse photo filters, templates, and presets shared by creators around the world. From vintage photo effects to retro photo filters and presets to match your aesthetic kick off your edits in a tap. Whether you’re looking to make bold edits with AI photo editor tools or subtle tweaks for polished portrait edits, find a look that matches your style. Save your favorites and make every photo feel like you.\n\nEDIT ONCE, APPLY EVERYWHERE\nSnapped a whole concert, travel day, or family gathering? Instead of editing each shot one by one, make quick edits with AI photo editor tools. Fix photos in batches to keep your photo edits looking consistent.\n\nWHY ADOBE LIGHTROOM?\n• It’s for every moment: whether editing photos for fun, capturing memories, gaining confidence, or sharing on social media.\n• It’s flexible: start with simple photo editing and grow into a better photographer along the way. Fix photos, crop and resize images, blur background elements, or remove distractions with our object eraser — the editing options are endless with Adobe Lightroom.\n• It’s an AI photo editor designed to help build confidence, spark creativity, and showcase your authentic style.\n\nPHOTO EDITOR TOOLS YOU'LL LOVE\n• Quick Actions: Fix photos with suggested edits tailored to your pics.\n• Preset Edits: Discover filters or make your own signature look.\n• Background Blur: Create depth with a blurry background effortlessly.\n• Generative Remove Edits: Take out the things you didn’t want with this AI photo eraser.\n• Video Editing: Bring the same creative energy to your clips with tools for light, color, and presets.\n\nFOR EVERY KIND OF PHOTOGRAPHER\nPhoto editing has never been easier. Lightroom is here to empower you - to capture sunsets, family moments, or your latest foodie find. With tools to fix pictures, enhance photo quality, and edit videos, Adobe Lightroom gives you the right balance of ease and control.\n\nDownload Adobe Lightroom today.\n\nTerms & Conditions:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/93/8f/2d938f99-b755-b473-6402-7a4ccf7c4722/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/22/7c/87227c97-562b-5f2e-9750-9d1abfe602c5/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
             "tintColor": "#050B14",
             "screenshots": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/33/2e/8c332e08-cc7e-a198-a0e1-c2478cc532be/lightroom-ios-phone-March-Madness-1320x2868-splash-V3.jpg/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/36/31/73363169-f9a2-046e-bbeb-43931c238bc2/Adobe_Lightroom_US_iOS-6.9_Screenshot_260730_Gen-Expand.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/c1/23/1ac1239f-c725-6a43-6303-990e5938f8d7/Adobe_Lightroom_en-US_iOS-6.9_Screenshot_260402_Presets-Film.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/e5/6d/8de56d8b-2500-a649-6ff0-a668babad811/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/eb/f4/36ebf493-025e-9daf-7bd5-9e0813e43860/Adobe_Lightroom_US_iOS-6.9_Screenshot_260608_Blemish-Removal.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/2f/f7/1b2ff7cb-afa8-b957-b277-12d966ae518d/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/f8/8c/64f88ce3-298d-6477-8378-34d63c8828f4/iOS_V1_SS2.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/d4/da/c7d4da4a-5a3d-591d-c14e-3701b8fccfcd/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/ac/d3/9eacd32c-f893-384e-96b5-663d8a04788a/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/5b/8a/675b8a48-96cb-b490-bd6c-c43477520cb0/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/320x480bb.jpg"
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/54/d5/0754d5b6-f514-58aa-2333-69794dbcf842/lightroom-ios-phone-March-Madness-1320x2868-splash-V3.jpg/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/9b/b5/a89bb57b-5b86-e91c-748d-9aa11c024329/Adobe_Lightroom_US_iOS-6.9_Screenshot_260730_Gen-Expand.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/a4/36/40a436a5-37f6-8cf8-4b1a-fe5553a156e4/Adobe_Lightroom_en-US_iOS-6.9_Screenshot_260402_Presets-Film.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dd/ff/2addff87-64b1-dbe9-cc40-532335d8df91/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/5a/7b/385a7b31-4fe7-70c7-9bbc-8d2c6a5d8139/Adobe_Lightroom_US_iOS-6.9_Screenshot_260608_Blemish-Removal.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/da/69/73da697f-7f4e-7147-739a-7b0e0577895e/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/71/19/9971194f-4fae-049d-e779-5120a2c86fbb/iOS_V1_SS2.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/86/a2/7386a2a6-59d5-8d3a-fdc7-a9d28cb8c278/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/8a/c1/1b8ac1ea-d6dd-8967-cb50-7d5eb691a772/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/f2/32/7af232b2-3900-594b-6b50-c3c58be9729f/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/320x480bb.jpg"
             ],
             "versions": [
                 {
@@ -105,7 +105,7 @@
                     "date": "2026-10-26",
                     "size": 222669708,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
-                    "localizedDescription": "- Bug fixes and stability improvements",
+                    "localizedDescription": "- Fix a blink in a tap with Open Eyes and get results that feel authentic\n- Start editing or pick up where you left off with the Home tab\n- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
                 }
             ],
