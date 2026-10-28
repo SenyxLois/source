@@ -101,9 +101,9 @@
             ],
             "versions": [
                 {
-                    "version": "11.6.20",
-                    "date": "2026-10-26",
-                    "size": 222669708,
+                    "version": "11.6.21",
+                    "date": "2026-10-28",
+                    "size": 222689421,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Fix a blink in a tap with Open Eyes and get results that feel authentic\n- Start editing or pick up where you left off with the Home tab\n- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
