@@ -88,16 +88,16 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/0d/17/290d17eb-8a8a-2ae7-93f4-a700883cc028/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
             "tintColor": "#050B14",
             "screenshots": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/f6/5c/76f65c07-905c-c5fa-c7cd-6c0932ac22d4/lightroom-ios-phone-March-Madness-1320x2868-splash-V3.jpg/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/5e/83/cb5e833e-2faa-f987-42aa-dae800b5094b/Adobe_Lightroom_US_iOS-6.9_Screenshot_260730_Gen-Expand.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/d5/62/90d562e2-9fc4-b4fe-766a-e027ae31009d/Adobe_Lightroom_en-US_iOS-6.9_Screenshot_260402_Presets-Film.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/47/b6/4247b619-e99b-93b3-94ee-0a545cf9bbc7/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Remove.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/05/e4/5005e424-b8cd-345a-a942-2e23d78f5953/Adobe_Lightroom_US_iOS-6.9_Screenshot_260608_Blemish-Removal.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/41/43/e6414396-678e-a94f-936c-336cb56443ff/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Sky.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/03/aa/da03aac7-0ca2-1332-bf2a-a4b6f34f2c65/iOS_V1_SS2.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/ea/cd/29eacd9a-7568-efc2-7cf2-4948e8191b97/Adobe_Lightroom_UK_iOS-6.9_Screenshot_250701_Blur.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/8a/c5/948ac517-6e88-6eb1-ca80-b558b6ee0fba/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Color.png/320x480bb.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/c3/49/17c349fa-f8d2-2dc6-7623-37213ef21de6/Adobe_Lightroom_US_iOS-6.9_Screenshot_250718_Video.png/320x480bb.jpg"
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/5c/46/4d5c46d2-9686-ce57-9f5d-86b064002465/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_01.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/cf/ad/68cfad76-e75c-b1d2-7345-bd10ad7ac442/Adobe_Lightroom_US_iOS-6.9_Screenshot_261016_Open-Eyes.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/7b/42/a07b42b1-cc03-e44d-c33f-f90af3965f34/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_07.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/d0/f3/a8d0f3a6-d545-84e1-dd8d-85fcfd5e36f2/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_06.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/7c/1b/037c1b65-4c5d-b21c-aa52-a15a9086bf3f/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_03.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/af/70/a1af7066-7bde-ce33-42f1-198cd4f3bec2/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_02.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/4e/cf/f94ecfc6-546f-9be1-a7f6-e606278a3f77/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_08.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/da/2c/09da2c0a-26fc-d6c7-90d5-830c184bc709/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_04.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/52/15/0f5215f3-37d4-4ee7-b537-dc51b0f118db/Adobe_Lightroom_US_iOS-6.9_Screenshot_261007_Splash_05.png/320x480bb.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/62/62/9a626278-65ae-2d55-ef6a-1de76076fcdf/Adobe_Lightroom_US_iOS-6.9_Screenshot_261016_Sky.png/320x480bb.jpg"
             ],
             "versions": [
                 {
