@@ -134,9 +134,9 @@
             ],
             "versions": [
                 {
-                    "version": "1.63",
-                    "date": "2026-11-15",
-                    "size": 187134096,
+                    "version": "1.64",
+                    "date": "2026-11-18",
+                    "size": 185313014,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.andyworks.camera.ipa",
                     "localizedDescription": "+ Bug fixes\n+ Add 8x zoom support for iPhone 18 Pro",
                     "minOSVersion": "18.2"
