@@ -101,9 +101,9 @@
             ],
             "versions": [
                 {
-                    "version": "12.0.0",
-                    "date": "2026-11-04",
-                    "size": 221810101,
+                    "version": "12.0.10",
+                    "date": "2026-11-23",
+                    "size": 225658047,
                     "downloadURL": "https://cdn.senyxcloud.my/ipa/com.adobe.lrmobilephone.ipa",
                     "localizedDescription": "- Add a soft, dreamy glow effect with ten presets and sliders to fine-tune the look \n- Describe your edits and let Lightroom do the rest with AI Assistant (Early Access) \n- Get clear skin faster with improved Blemish Removal \n- New camera & lens support (full list at https://adobe.com/go/cameras) \n- Bug fixes and stability improvements",
                     "minOSVersion": "18.0"
